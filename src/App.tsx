@@ -3,7 +3,6 @@ import Axios from "axios"
 import './index.css'
 
 
-import Input from "./components/Input"
 import InfoIp from "./components/InfoIp"
 import Map from "./components/Map"
 
@@ -30,10 +29,9 @@ const App = (): JSX.Element => {
   return (
     <main className="relative">
       <div className="relative h-[300px]">
-        <Input />
-        <Map latitude={latitude} longitude={longitude}/>
+        <InfoIp data={data} />
+        {data && <Map latitude={latitude} longitude={longitude}/>}
       </div>
-      <InfoIp data={data} />
     </main>
   )
 }
