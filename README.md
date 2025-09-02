@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Othman
 
 **Othman Tabeche**
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/othmantabeche/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/othmantabeche/)
 
 ## 🙏 Acknowledgments
 
